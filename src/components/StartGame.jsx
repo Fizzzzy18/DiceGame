@@ -8,7 +8,7 @@ const StartGame = ({ toggle }) => {
   return (
     <Container>
         <div>
-       <img src="((./images/dices.png).default)" />
+       <img src="./images/dices.png" />
 
         </div>
         <div className="content">
